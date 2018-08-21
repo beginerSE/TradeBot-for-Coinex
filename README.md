@@ -1,0 +1,2 @@
+# TradeBot-for-Coinex
+RSIのためのBotです。
